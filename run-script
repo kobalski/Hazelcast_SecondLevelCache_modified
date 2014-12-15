@@ -1,0 +1,4 @@
+BASEDIR=$(dirname $0);
+echo "Script location: ${BASEDIR}";
+cd ${BASEDIR}/target;
+java -jar hazelcast-issue.jar;

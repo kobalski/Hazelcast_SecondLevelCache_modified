@@ -1,0 +1,6 @@
+BASEDIR=$(dirname $0);
+echo "Script location: ${BASEDIR}";
+cd ${BASEDIR};
+mvn clean install;
+mvn clean package;
+

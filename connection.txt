@@ -1,0 +1,1 @@
+connect 'jdbc:derby:mydatabase;create=true';

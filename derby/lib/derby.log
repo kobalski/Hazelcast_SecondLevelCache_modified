@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 11 09:19:09 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014a-3837-336f-00000e9dc6a0 
+on database directory /Users/ibo9/Downloads/db-derby-10.11.1.1-bin/lib/mydatabase with class loader sun.misc.Launcher$AppClassLoader@612dcb8c 
+Loaded from file:/Users/ibo9/Downloads/db-derby-10.11.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_45-b18
+user.dir=/Users/ibo9/Downloads/db-derby-10.11.1.1-bin/lib
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

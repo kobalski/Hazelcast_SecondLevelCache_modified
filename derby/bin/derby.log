@@ -1,0 +1,15 @@
+----------------------------------------------------------------
+Mon Dec 15 18:22:50 EET 2014:
+Booting Derby version The Apache Software----------------------------------------------------------------
+Mon Dec 15 18:22:56 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014a-4ec2-4faf-000014aa7101 
+on database directory /Users/ibo9/Desktop/Developer/Hazelcast_SecondLevelCache_modified/derby/bin/mydatabase with class loader sun.misc.Launcher$AppClassLoader@4fe5e2c3 
+Loaded from file:/Users/ibo9/Desktop/Developer/Hazelcast_SecondLevelCache_modified/derby/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_65-b14-466.1-11M4716
+user.dir=/Users/ibo9/Desktop/Developer/Hazelcast_SecondLevelCache_modified/derby/bin
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.1
+derby.system.home=/Users/ibo9/Desktop/Developer/Hazelcast_SecondLevelCache_modified/derby/bin
+Database Class Loader started - derby.database.classpath=''

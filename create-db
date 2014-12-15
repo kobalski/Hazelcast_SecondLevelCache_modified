@@ -1,0 +1,5 @@
+BASEDIR=$(dirname $0);
+echo "Script location: ${BASEDIR}";
+cd ${BASEDIR}/derby/bin;
+./ij < ${BASEDIR}/connection.txt
+
