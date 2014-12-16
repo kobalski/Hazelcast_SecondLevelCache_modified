@@ -1,7 +1,7 @@
 Hazelcast_SecondLevelCache_modified
 ===================================
 
-#4017 issue of hazelcast reproduced.
+Issue 4017 of hazelcast reproduced.
 In order to reproduce the issue on Linux or Mac easily,
 
 1) Run the build-script <br>
